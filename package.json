@@ -1,5 +1,4 @@
 {
-  "homepage": "https://lynne411.github.io/lynnehome.github.io/",
   "name": "react-example",
   "private": true,
   "version": "0.0.0",
@@ -9,8 +8,6 @@
     "build": "vite build",
     "preview": "vite preview",
     "clean": "rm -rf dist",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -f",
     "lint": "tsc --noEmit"
   },
   "dependencies": {
