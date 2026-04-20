@@ -1,0 +1,287 @@
+
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "cases": "Cases",
+    "skills": "Skills"
+  },
+  "hero": {
+    "title1": "Welcome to",
+    "name": "Lynne",
+    "world": "World",
+    "de": "'s",
+    "p1": "Helping Web3 projects achieve growth through data-driven social media strategies, community building, and cross-platform marketing campaigns.",
+    "p2": "Anyway, welcome to Lynne's World!",
+    "contact": "Contact:",
+    "portfolioButton": "View Portfolio"
+  },
+  "socialCases": {
+    "title": "Social Media Operation Cases",
+    "subtitle": "Deeply engaged in the Web3 and B2B fields, developing multi-dimensional methodologies for social media growth and conversion.",
+    "tag": "CASE STUDIES",
+    "viewDetails": "View Case Details"
+  },
+  "about": {
+    "idCard": "ID CARD",
+    "nameLabel": "Name",
+    "nameValue": "Lynne",
+    "majorLabel": "Major",
+    "majorValue": "Business English",
+    "jobLabel": "Job",
+    "jobValue": "Marketing & BD",
+    "officialUse": "OFFICIAL USE",
+    "title": "Who's behind all this",
+    "titleHighlight": "great work?",
+    "p1": "I'm always curious about new things, and in a high-intensity work rhythm, I focus on growth while exploring content, technology, and various new approaches.",
+    "experience": {
+      "title": "1+ years of Web3 experience",
+      "desc": "Although I only have over a year of Web3 experience, I've tried, stumbled, and learned from most of it."
+    },
+    "followers": {
+      "title": "Managed 110K+ followers",
+      "desc": "Mainly for Twitter project accounts, from cold starts to stable growth."
+    },
+    "campaigns": {
+      "title": "Ran 30+ campaigns",
+      "desc": "From AMAs, airdrops, to partnership events, I've run through the whole process from planning to execution."
+    }
+  },
+  "skills": {
+    "title": "My broad",
+    "titleHighlight": "set of skills",
+    "categories": {
+      "growth": {
+        "title": "Growth & Strategy",
+        "items": ["Social Growth", "Growth Models", "Data Analysis", "User Conversion"]
+      },
+      "campaign": {
+        "title": "Campaign & BD",
+        "items": ["Campaign Design", "Partnership Outreach", "Resource Integration", "Growth Campaigns"]
+      },
+      "content": {
+        "title": "Content & Copywriting",
+        "items": ["Twitter Threads", "Campaign Copy", "Brand Voice", "Content Structure"]
+      },
+      "design": {
+        "title": "Design & Tools",
+        "items": ["Figma", "Canva", "Nano banana", "Visual Layout", "Content Graphics", "Basic Editing"]
+      }
+    }
+  },
+  "timeline": {
+    "title": "Earth Online",
+    "titleHighlight": "Open Game Progress",
+    "mainQuest": "Main Quests",
+    "sideQuest": "Side Quests",
+    "events": [
+      { "date": "Mar 2026", "title": "Excitedly started AI programming and launched my personal website" },
+      { "date": "Apr 2025 – Present", "title": "Ads3 Marketing Operations" },
+      { "date": "Oct 2025 - Jan 2026", "title": "GINFX Community Operations" },
+      { "date": "Dec 2025", "title": "Started seriously using AI (ChatGPT / Gemini) with Lark Base to maximize work efficiency" },
+      { "date": "Sep 2025", "title": "Published my first post about Web3, becoming a blogger on Xiaohongshu & Twitter" },
+      { "date": "Jun 2025", "title": "Graduated" },
+      { "date": "Jan 2025 – Mar 2025", "title": "TrendX Community Operations" },
+      { "date": "Jul 2024 – Dec 2024", "title": "Topon Marketing Intern" },
+      { "date": "Sep 2024 – Nov 2024", "title": "Websea DEXMod" }
+    ]
+  },
+  "footer": {
+    "motto": "Stay Brutal, Stay Creative."
+  },
+  "caseDetail": {
+    "backButton": "Back to Cases",
+    "projectJump": "Click the buttons below to quickly jump to the corresponding project details:",
+    "projectBackground": "Project Background",
+    "timeSpan": "Time Span",
+    "positioning": "Account Positioning",
+    "skills": "Key Responsibilities & Skills",
+    "coreData": "Core Data Highlights",
+    "coreResponsibilities": "Core Responsibilities & Execution",
+    "articles": "Representative Articles",
+    "caseStudies": "Representative Campaigns",
+    "communityType": "Community Type",
+    "coreTarget": "Core Target"
+  },
+  "case_studies_data": {
+    "Twitter": {
+      "title": "Twitter (X) Operation Cases",
+      "summary": "Deeply engaged in the Web3 field, achieving explosive growth for Ads3.ai and Claw Intelligence through AI-driven strategies and ecosystem partnerships.",
+      "projects": [
+        {
+          "id": "ads3",
+          "name": "Ads3",
+          "background": {
+            "period": "2024 – Mar 2026",
+            "positioning": "Bringing 1 billion social network users into Web3, helping crypto projects, GameFi, and dApps achieve cross-ecosystem explosive growth through AI-powered precise advertising and multi-dimensional traffic aggregation."
+          },
+          "stats": [
+            { "label": "Strategic Partners", "value": "200+", "desc": "PlaysOut, Fomoin, Ant.fun, etc." },
+            { "label": "Peak Post Views", "value": "36K+", "desc": "AMA announcement post" },
+            { "label": "Peak Post Engagement", "value": "1K+", "desc": "Airdrop & Quest campaign post" },
+            { "label": "On-chain User Growth", "value": "2.25M", "desc": "Top DApp on BNB Chain in 30 days" }
+          ],
+          "articles": [
+            {
+              "title": "1. Account Growth & Brand Positioning",
+              "content": "Successfully established the image of a leader in 'AI-driven Web3 smart advertising'. By releasing a landscape of 200+ partners covering core sectors like Exchange, Infra, AI, and Gaming, Ads3 was established as an authority in Web3 traffic aggregation."
+            },
+            {
+              "title": "2. Strategic Partner BD & Ecosystem Expansion",
+              "content": "Led and executed announcements for 200+ high-value partners. For example, the strategic partnership with Fomoin significantly improved partner acquisition efficiency and brand exposure through AI-driven precision targeting."
+            },
+            {
+              "title": "3. Campaign Planning & Community Operation",
+              "content": "Planned and hosted several industry-benchmark events. The 'AI, Data & Smart Growth in Web3' Twitter Space AMA attracted thousands of listeners, inviting top industry experts to discuss new paradigms of Web3 growth."
+            },
+            {
+              "title": "4. Direct Contribution to On-chain Growth",
+              "content": "With excellent traffic distribution capabilities, helped Ads3 top the dApp rankings on the opBNB chain. Achieved 300K+ user growth and 301K+ transactions in 30 days, proving the platform's practical power."
+            },
+            {
+              "title": "5. In-depth Case Studies & Technical Output",
+              "content": "Published multiple in-depth case studies detailing how AI algorithms optimize acquisition paths, successfully reducing project CPA by 4x. This professional content greatly boosted B2B client conversion confidence."
+            }
+          ],
+          "skills": ["Content Strategy", "Partnership Development", "Campaign Operations", "Data Analysis", "Web3 Trend Insight", "Twitter Algorithm Optimization", "Brand Positioning", "Community Growth"]
+        },
+        {
+          "id": "claw",
+          "name": "Claw Intelligence",
+          "background": {
+            "period": "Dec 2025 – Mar 2026",
+            "positioning": "Aggregating market data and on-chain signals through an AI Agent + MCP protocol to help Web3 users achieve a smart trading loop of 'data → insight → one-click execution'.",
+            "links": [
+              { "label": "Website", "url": "https://clawintelli.com/" },
+              { "label": "X Account", "url": "https://x.com/ClawIntelli" }
+            ]
+          },
+          "stats": [
+            { "label": "Strategic Partners", "value": "20+", "desc": "MarsCat, Hash Epoch, etc." },
+            { "label": "Investor Backing", "value": "5", "desc": "Strategic investment from Castrum Capital" },
+            { "label": "Peak Post Views", "value": "9.6k+", "desc": "MCP feature introduction" },
+            { "label": "Peak Post Engagement", "value": "286+", "desc": "Check-in feature launch" }
+          ],
+          "articles": [
+            {
+              "title": "1. Strategic Partner BD & Ecosystem Expansion",
+              "content": "Led several high-value partner announcements to quickly build an on-chain intelligent ecosystem network.",
+              "highlightText": "Example: Exciting partnership alert: Chain Intelligence × DataVLT!"
+            },
+            {
+              "title": "2. Investor Backing & Investment Promotion",
+              "content": "Successfully promoted the strategic investment from Castrum Capital, enhancing project credibility."
+            },
+            {
+              "title": "3. Building Industry Influence",
+              "content": "Participated as a guest in a major Ads3.ai AMA, positioning as a professional voice in the Web3 AI smart growth field."
+            },
+            {
+              "title": "4. Product Iteration & Content Strategy",
+              "content": "Continuously promoted product features (like Isolated Sandbox) using a combined strategy of 'partners + investment + industry trends'."
+            }
+          ],
+          "skills": ["Content Strategy", "Partnership Development", "Investor Relations", "AMA Guest Operations", "AI Agent Trend Insight", "Twitter Algorithm Optimization", "Brand Upgrade", "Community Growth"]
+        }
+      ]
+    },
+    "Telegram": {
+      "title": "Telegram Community Operations",
+      "summary": "Responsible for the growth and conversion of the official Ads3 community, building a highly active Web3 community through campaign mechanism design and conversion path optimization.",
+      "projects": [
+        {
+          "name": "Ads3 Telegram Community",
+          "background": {
+            "period": "Sep 2025 – Mar 2026",
+            "positioning": "Community Type: Airdrop Community + Official Project Community. Core Goals: Acquisition + Engagement + Conversion."
+          },
+          "stats": [
+            { "label": "Community Size", "value": "115K+", "desc": "Grew from 15K to 115K+" },
+            { "label": "Monthly Active Users", "value": "15K+", "desc": "MAU remains high" },
+            { "label": "Activity Rate", "value": "13%+", "desc": "Well above industry average" },
+            { "label": "Quest Participation", "value": "3K-5K", "desc": "Avg. participants per campaign" }
+          ],
+          "articles": [
+            {
+              "title": "Ads3 Airdrop Alliance Relay Campaign",
+              "content": "Planned a 15-day joint relay race, achieving 17.2k views, +8,000 participants, and a 20%+ referral rate."
+            },
+            {
+              "title": "BNB & Ads3 Airdrop Campaign",
+              "content": "A single campaign achieved 19k views, 5,000+ participants, and directly drove +1,200 user registrations."
+            }
+          ],
+          "skills": ["Community Ops", "Campaign Planning", "Conversion Funnel", "Automation Tools", "Referral Mechanics", "User Retention", "KOL Cooperation"]
+        }
+      ]
+    },
+    "LinkedIn": {
+      "title": "LinkedIn B2B Operations",
+      "summary": "Responsible for TopOn's account content operations and growth strategy, building a B2B content system around mobile ad monetization to achieve both brand exposure and customer acquisition.",
+      "projects": [
+        {
+          "name": "TopOn LinkedIn Strategy",
+          "background": {
+            "period": "Sep 2024 – Jan 2025",
+            "positioning": "Brand Exposure + B2B Lead Generation + Product Education, targeting game developers, app developers, and global teams."
+          },
+          "stats": [
+            { "label": "Follower Growth", "value": "+33%", "desc": "6K → 8K" },
+            { "label": "Overall Impressions", "value": "+110%", "desc": "Significant increase in content reach" },
+            { "label": "Leads Growth", "value": "+22%", "desc": "Avg. monthly business inquiries" },
+            { "label": "Website Clicks", "value": "+28%", "desc": "Noticeable CTR improvement" }
+          ],
+          "articles": [
+            {
+              "title": "🏆 Case 1: Award Promotion (High Brand Exposure)",
+              "content": "Promoted TopOn's GTC Award, resulting in +80% higher exposure than average, effectively enhancing industry trust."
+            },
+            {
+              "title": "🎄 Case 2: Holiday Marketing (High Engagement)",
+              "content": "The Christmas Campaign saw a +60% increase in engagement rate, successfully adding 'emotional value' to B2B content."
+            },
+            {
+              "title": "🚀 Case 3: Feature Launch (High Conversion)",
+              "content": "Launched the Incentivized Anti-Fraud feature, leading to a +35% CTR increase and a significant rise in lead conversions."
+            }
+          ],
+          "skills": ["B2B Content Marketing", "English Copywriting", "SaaS Growth", "Industry Insights", "Lead Conversion", "Brand PR", "Social Selling"]
+        }
+      ]
+    },
+    "WeChat": {
+      "title": "WeChat Official Account Ops",
+      "summary": "Responsible for TopOn's official account content operations, achieving brand communication and private traffic conversion through a structured content system and topic strategy.",
+      "projects": [
+        {
+          "name": "TopOn WeChat Official Account",
+          "background": {
+            "period": "Sep 2024 – Jan 2025",
+            "positioning": "Brand Promotion + Industry Content + User Education + Conversion Funnel, targeting global developers and ad monetization professionals."
+          },
+          "stats": [
+            { "label": "Follower Growth", "value": "+66%", "desc": "3K → 5K" },
+            { "label": "Readership Growth", "value": "+166%", "desc": "Avg. reads 800+" },
+            { "label": "Viral Article Reads", "value": "1,500+", "desc": "Peak reads for a single article" },
+            { "label": "Private Traffic Conversion", "value": "+20%", "desc": "Inquiry/registration conversion rate" }
+          ],
+          "articles": [
+            {
+              "title": "📊 Case 1: Industry Trends (High Professionalism)",
+              "content": "'How to Monetize Your App? You Need to Choose the Right Ad Platform,' addressing developer pain points and driving website clicks."
+            },
+            {
+              "title": "🌏 Case 2: Market Insights (Content Series)",
+              "content": "'Exploring the Indonesian Game Market: Unlocking Infinite Potential,' strengthening TopOn's positioning as a 'global market expert'."
+            },
+            {
+              "title": "🚀 Case 3: Product Features (Conversion-focused)",
+              "content": "'TopOn's Smart Ad Mediation System: Enabling 24/7 Intelligent Optimization for Ad Monetization,' translating features into revenue logic."
+            }
+          ],
+          "skills": ["Content Matrix", "Topic Planning", "Layout Design", "Private Traffic Ops", "Conversion Design", "Data-Driven", "User Growth"]
+        }
+      ]
+    }
+  }
+}
